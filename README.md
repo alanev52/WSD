@@ -5,11 +5,11 @@ This repository contains code and datasets for running the main experiments cove
 MERGED DATA set is a WSD benchmark targetting 2 to 5 senses of 21 ambiguous nouns. It was specifically compiled from benchmark for two datasets (RUSSE and Corpus-1000), to provide an ideal setting for evaluating WSD models (e.g. no senses in test sets missing from training), both quantitavely and qualitatively.
 An individual dataset for each word contains files with a standard 70/30 train-test split, and classes map with uniformed senses from both corpora according to RuWordNet:
 
--classes_map.txt
--test.data.txt
--test.gold.txt
--train.data.txt
-=train.gold.txt
+- classes_map.txt
+- test.data.txt
+- test.gold.txt
+- train.data.txt
+- train.gold.txt
 
 The formate of train.data.txt: [idx of target word] [sample sentence containing the target word]
 

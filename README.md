@@ -18,12 +18,12 @@ all methods are written in jypiter notebook and adopted for the use in Google co
 
 # Feature Extraction
 
-You may use the [BERT_for_WSD_1NN] (https://github.com/alanev52/WSD/BERT_for_WSD_1NN.ipynb) to create sense embeddings from a particular set from our MERGED DATA and evaluate the predictions.
+You may use the [BERT_for_WSD_1NN.ipynb](https://github.com/alanev52/WSD/BERT_for_WSD_1NN.ipynb) to create sense embeddings from a particular set from our MERGED DATA and evaluate the predictions.
 # Fine-Tuning:
 
-You may use the [BERT_for_fine-tuning] https://github.com/alanev52/WSD/BERT_for_fine-tuning.ipynb to fine-tune BERT models within a set from our MERGED DATA and evaluate the predictions.
+You may use the [BERT_for_fine-tuning.ipynb](https://github.com/alanev52/WSD/BERT_for_fine-tuning.ipynb) to fine-tune BERT models within a set from our MERGED DATA and evaluate the predictions.
 To compute F1 scores we supply a separate [F1-score for FT](https://github.com/alanev52/WSD/blob/main/F1_score_for_FT.ipynb))
 
 # Results:
 F1-scores can be merged in one CSV file by []()
-You can fine an excel format document with the main [results] ()
+You can fine an excel format document with the main [results](https://github.com/alanev52/WSD/blob/main/results.xlsx)

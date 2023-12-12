@@ -14,9 +14,9 @@ An individual dataset for each word contains files with a standard 70/30 train-t
 The formate of train.data.txt: [idx of target word] [sample sentence containing the target word]
 
 The formate of train.gold.txt: [idx of gold sense from calsses_map]
+___________________________________________________________________________________________________________
 
 All methods are written in jypiter notebook and adopted for the use in Google colab.
-
 # Feature Extraction
 
 You may use the [BERT_for_WSD_1NN.ipynb](https://github.com/alanev52/WSD/BERT_for_WSD_1NN.ipynb) to create sense embeddings from a particular set from our MERGED DATA and evaluate the predictions.

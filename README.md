@@ -18,7 +18,7 @@ The formate of train.gold.txt: [idx of gold sense from calsses_map]
 ___________________________________________________________________________________________________________
 
 _All methods are written in jupyter notebook and adopted for the use in Google colab._
-## Feature Extraction
+## Feature Extraction:
 
 You may use the [BERT_for_WSD_1NN](https://github.com/alanev52/WSD/BERT_for_WSD_1NN.ipynb) to create sense embeddings from a particular set from our MERGED DATA and evaluate the predictions.
 ## Fine-Tuning:
